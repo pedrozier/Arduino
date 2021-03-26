@@ -11,5 +11,4 @@ void loop()
   lcd.print("hello world");
   lcd.setCursor(0,2);
   lcd.print("test ok");
-    delay(500); // Delay a little bit to improve simulation performance
-}
+    delay(500); 

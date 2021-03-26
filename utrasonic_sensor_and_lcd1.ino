@@ -2,15 +2,15 @@
 LiquidCrystal lcd(2,3,4,6,7,8,9,10,11,12,13);
 long readUltrasonicDistance(int pin)
 {
-  pinMode(pin, OUTPUT);  // Clear the trigger
+  pinMode(pin, OUTPUT);  
   digitalWrite(pin, LOW);
   delayMicroseconds(2);
-  // Sets the pin on HIGH state for 10 micro seconds
+ 
   digitalWrite(pin, HIGH);
   delayMicroseconds(10);
   digitalWrite(pin, LOW);
   pinMode(pin, INPUT);
-  // Reads the pin, and returns the sound wave travel time in microseconds
+ 
   return pulseIn(pin, HIGH);
 
 

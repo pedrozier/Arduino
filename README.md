@@ -9,5 +9,5 @@ tela lcd com sensor de distancia (utrasonic_sensor_and_lcd1.ino)==>  https://www
 
 somente a tela lcd (lcd1.ino) ==>  https://www.tinkercad.com/things/kLqp2NGFcDw 
 
-Semáforo simples ==> https://www.tinkercad.com/things/4jkMCS7td7j 
+Semáforo simples (Semaforo.ino) ==> https://www.tinkercad.com/things/4jkMCS7td7j 
 

@@ -11,3 +11,4 @@ somente a tela lcd (lcd1.ino) ==>  https://www.tinkercad.com/things/kLqp2NGFcDw
 
 Semáforo simples (Semaforo.ino) ==> https://www.tinkercad.com/things/4jkMCS7td7j 
 
+exemplo de utilização da pwm~ (pwm_.ino) ==>  https://www.tinkercad.com/things/0cLp7Xd5Q5B 

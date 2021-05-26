@@ -13,4 +13,4 @@ semáforo simples (Semaforo.ino) ==> https://www.tinkercad.com/things/4jkMCS7td7
 
 exemplo de utilização da pwm~ (pwm_.ino) ==>  https://www.tinkercad.com/things/0cLp7Xd5Q5B 
 
-interruptor com funções Read,Write,if... ==>  https://www.tinkercad.com/things/c58fTvYIAFT 
+interruptor com funções Read,Write,if...(botao.ino) ==>  https://www.tinkercad.com/things/c58fTvYIAFT 

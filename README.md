@@ -9,6 +9,8 @@ tela lcd com sensor de distancia (utrasonic_sensor_and_lcd1.ino)==>  https://www
 
 somente a tela lcd (lcd1.ino) ==>  https://www.tinkercad.com/things/kLqp2NGFcDw 
 
-Semáforo simples (Semaforo.ino) ==> https://www.tinkercad.com/things/4jkMCS7td7j 
+semáforo simples (Semaforo.ino) ==> https://www.tinkercad.com/things/4jkMCS7td7j 
 
 exemplo de utilização da pwm~ (pwm_.ino) ==>  https://www.tinkercad.com/things/0cLp7Xd5Q5B 
+
+interruptor com funções Read,Write,if... ==>  https://www.tinkercad.com/things/c58fTvYIAFT 

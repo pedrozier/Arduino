@@ -15,4 +15,4 @@ exemplo de utilização da pwm~ (pwm_.ino) ==>  https://www.tinkercad.com/things
 
 interruptor com funções Read,Write,if...(botao.ino) ==>  https://www.tinkercad.com/things/c58fTvYIAFT 
 
-resistor pull (up,down) ==>  https://www.tinkercad.com/things/3n1fITVb3CP 
+resistor pull up,down (ResistorPull) ==>  https://www.tinkercad.com/things/3n1fITVb3CP 

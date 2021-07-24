@@ -18,3 +18,5 @@ interruptor com funções Read,Write,if...(botao.ino) ==>  https://www.tinkercad
 resistor pull up,down (ResistorPull.ino) ==>  https://www.tinkercad.com/things/3n1fITVb3CP 
 
 ledRgb (LedRgb) ==>  https://www.tinkercad.com/things/lx89PkkFzWQ 
+
+ledRGBclass.ino (ledrgb com o uso de classes) ==>   https://www.tinkercad.com/things/9XuRHDK1H1u 

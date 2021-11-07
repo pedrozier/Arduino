@@ -1,0 +1,25 @@
+E318261B = 1
+511DBB = 2
+CF639CC7 = 3
+52A3D41F = 4
+555F94D4 = 5
+41F8EAD3 = 6
+FF = 7
+FFA857 = 8
+30A3001F = 9
+CAAD1BE5 = cima
+FF10EF = esquerda
+FF4AB5 = baixo
+FF5AA = direita
+C101E57B = *
+23600074 = #
+FF38C7 = ok
+
+
+
+
+
+
+
+
+
